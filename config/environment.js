@@ -21,6 +21,8 @@ module.exports = function(environment) {
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
+      FOO: 'bar',
+      VERSION: '1.0.0'
     }
   };
 
